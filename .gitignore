@@ -6,3 +6,7 @@
 .vs/
 *.user
 *.suo
+
+
+# C# project files
+*.csproj
